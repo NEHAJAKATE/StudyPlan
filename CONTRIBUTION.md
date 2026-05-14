@@ -14,7 +14,7 @@ Thank you for your interest in contributing to **StudyPlan** — an application 
 
 ---
 
-## 🏅 GSSoC Contributors — Start Here
+## 🏅 GSSoC/NSoC Contributors — Start Here
 
 Welcome to GSSoC! Here's how the contribution flow works for this project:
 
